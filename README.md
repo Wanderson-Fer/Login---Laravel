@@ -1,3 +1,23 @@
+# Login---Laravel
+
+## Tela de registro
+
+<p align="center"><img src="./public/img/register 2023-05-15 093026.png" width="400" alt="Laravel Login"></p>
+
+## Tela de login
+
+<p align="center"><img src="./public/img/Log in 2023-05-15 093120.png" width="400" alt="Laravel Login"></p>
+
+## Tela de falha de login
+
+<p align="center"><img src="./public/img/fail - login 2023-05-15 093220.png" width="400" alt="Laravel Login"></p>
+
+## Tela Logado
+
+<p align="center"><img src="./public/img/Logged in 2023-05-15 092936.png" width="400" alt="Laravel Login"></p>
+
+# Laravel
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -64,4 +84,3 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-# Login---Laravel
